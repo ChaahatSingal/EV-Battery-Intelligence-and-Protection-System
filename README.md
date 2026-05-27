@@ -32,11 +32,8 @@ Hierarchical Protection Logic
 Warning / Derating / Shutdown / Fast-Fault Response
 ```
 
-Add the system-level architecture image here:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0b4c6a3-05d2-41a3-a0bd-faf5adc49242" />
 
-```markdown
-![System Architecture](images/system_architecture.png)
-```
 
 The architecture contains two main paths:
 
@@ -50,7 +47,7 @@ The ADC is treated as a sampled-monitoring support block. The main protection be
 
 ---
 
-## Project Objectives
+## Project Objectives and Working 
 
 The main objectives of this project are:
 
@@ -62,6 +59,9 @@ The main objectives of this project are:
 * To adjust current policy according to battery aging condition.
 * To provide a separate fast-fault path for electrical faults.
 * To validate the complete system using case-wise LTspice simulation and Python analysis.
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/62081d3b-9a42-4488-88e6-2bd22903efb5" />
+
 
 ---
 
